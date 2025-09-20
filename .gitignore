@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# PyCharm files
+.idea/
+*.iml
+
+# Test reports
+reports/
+allure-results/
+pytest_cache/
