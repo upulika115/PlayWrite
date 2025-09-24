@@ -14,7 +14,11 @@ ENV/
 env/
 
 # PyCharm files
+<<<<<<< HEAD
 python_basics/.idea/
+=======
+.idea/
+>>>>>>> b7528a6c25485e8374169424f68ccd17f163af2d
 *.iml
 
 # Test reports
