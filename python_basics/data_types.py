@@ -2,6 +2,8 @@
 #1.Numeric ( Int, Float, Complex)
 #2.String
 #3. List
+#4. Tuple
+#5. Dictionary
 
 a,b,c=1, 2.3,"Upulika"
 
@@ -37,4 +39,14 @@ print(values)
 del values[3]
 print(values)
 
+print("List and Tuple are same only the difference is tuples are immutable that means cand modify after declare")
+val = (1,2, "Upulika", 4.5)
+print(val)
 
+print("Dictionary is an unordered sequence of data of key-value pair form")
+
+dic ={"a":2 , 4:"bcd", "c":"Hello World"}
+print(dic)
+print(dic["a"])
+print(dic[4])
+print(dic["c"])
