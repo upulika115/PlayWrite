@@ -1,35 +1,38 @@
-# PlayWrite + Python Basics
+# Playwright + Python Automation (Learning Portfolio)
 
-This repository contains my practice work from Rahul Shetty’s **Playwright with Python** course, along with Python basics exercises.
+This repository contains my practice work and progress from the Udemy course:  
+[**Playwright PYTHON Automation Testing – From Zero to Expert**](https://www.udemy.com/course/playwright-python-automation-testing-from-zero-to-expert/) by **Rahul Shetty**.  
 
----
-This repository contains my practice and learning work from **Rahul Shetty's Playwright with Python Course**, along with my own experiments in Python basics.  
-
-🚧 **Project Status:** In Progress  
-📅 **Planned Completion:** Before 4th October 2025  
-
-## 📖 Contents
-
-- `python_basics/`
-  - `first_demo.py` → My first Python script
-  - `data_types.py` → Examples of Python data types (int, float, string, list, etc.)
-  - `main.py` → Entry point script
-
-- `playwright_framework/` *(coming soon)*  
-  Test automation framework using **Playwright + Pytest**.
+I am uploading my hands-on exercises here to build a **public portfolio** that showcases my learning journey in **Python programming** and **Playwright automation testing**.
 
 ---
 
-## 🛠️ Technologies Used
-- Python 3.12
-- Playwright
-- Pytest
-- Git & GitHub
-- PyCharm IDE
+## 📌 About This Repository
+- This is my **course practice repo**.  
+- Includes both **Python basics** and **Playwright automation examples**.  
+- Purpose: to **demonstrate my continuous learning** and keep a trackable portfolio recruiters can view.  
 
 ---
 
-## 🚀 How to Run
-Clone this repo:
-```bash
-git clone https://github.com/upulika115/PlayWrite.git
+## 📚 Current Progress
+- ✅ Python basics (variables, data types, functions, loops, lists, etc.)  
+- ✅ First Playwright setup and test execution   
+
+---
+
+## 🎯 Goal
+I plan to complete this course by **4th October 2025**.  
+This repo will then contain all course practice code as part of my **automation testing portfolio**.
+
+---
+
+## 💼 Why This Repo?
+I am showcasing this project on my portfolio and LinkedIn profile to:
+- Highlight my **commitment to upskilling** in **QA Automation**.  
+- Demonstrate my **hands-on practice** with Playwright + Python.  
+
+
+---
+
+👩‍💻 Author: [Upulika](https://www.linkedin.com/in/your-linkedin-profile)  
+🔗 GitHub Repo: [PlayWrite](https://github.com/upulika115/PlayWrite)
