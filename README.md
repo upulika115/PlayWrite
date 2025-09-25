@@ -3,6 +3,10 @@
 This repository contains my practice work from Rahul Shetty’s **Playwright with Python** course, along with Python basics exercises.
 
 ---
+This repository contains my practice and learning work from **Rahul Shetty's Playwright with Python Course**, along with my own experiments in Python basics.  
+
+🚧 **Project Status:** In Progress  
+📅 **Planned Completion:** Before 4th October 2025  
 
 ## 📖 Contents
 
