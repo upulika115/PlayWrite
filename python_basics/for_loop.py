@@ -9,3 +9,9 @@ sum = 0
 for j in range(1,6):
     sum = sum + j
 print(sum)
+
+#Increment By 2
+print("Increment by 2 and print")
+for k in range(1,10,2):
+    print(k)
+print("{}{}".format("final Value of K: ",k))
