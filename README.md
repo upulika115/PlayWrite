@@ -9,20 +9,21 @@ I am uploading my hands-on exercises here to build a **public portfolio** that s
 
 ## 📌 About This Repository
 - This is my **course practice repo**.  
-- Includes both **Python basics** and **Playwright automation examples**.  
+- Includes both **Python basics** (now completed ✅) and **Playwright automation examples**.  
 - Purpose: to **demonstrate my continuous learning** and keep a trackable portfolio recruiters can view.  
 
 ---
 
 ## 📚 Current Progress
-- ✅ Python basics (variables, data types, functions, loops, lists, etc.)  
-- ✅ First Playwright setup and test execution   
+- ✅ **Python basics completed** (variables, data types, functions, loops, conditionals, lists, tuples, dictionaries, OOP, file handling, exceptions, etc.)  
+- ✅ First Playwright setup and test execution  
+- ⏳ Playwright advanced features (fixtures, Page Object Model, reporting, etc.)  
 
 ---
 
 ## 🎯 Goal
-I plan to complete this course by **4th October 2025**.  
-This repo will then contain all course practice code as part of my **automation testing portfolio**.
+I plan to complete this course by **11th October 2025**.  
+By then, this repo will include the **full set of Playwright automation practice scripts** along with the completed Python basics section.
 
 ---
 
@@ -30,7 +31,7 @@ This repo will then contain all course practice code as part of my **automation 
 I am showcasing this project on my portfolio and LinkedIn profile to:
 - Highlight my **commitment to upskilling** in **QA Automation**.  
 - Demonstrate my **hands-on practice** with Playwright + Python.  
-
+- Provide recruiters with **clear evidence of coding skills** and structured progress.  
 
 ---
 
