@@ -10,7 +10,7 @@ def second_work():
     print("\n[setup function]")
     yield
     print("\n[teardown function]")
-
+@pytest.mark.smoke
 def test_initial_check(prework, second_work):
     print("This is First Check")
     assert prework == "pass"
