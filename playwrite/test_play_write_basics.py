@@ -1,3 +1,5 @@
+import time
+
 from playwright.sync_api import Page
 def test_playwriteBasics(playwright):
    browser =  playwright.chromium.launch(headless=False)
@@ -9,4 +11,11 @@ def test_playwriteBasics(playwright):
 def test_playwriteShortCut(page:Page):
       page.goto("https://google.com")
       assert "Google" in page.title()  # Optional validation
+
+def test_coreLocators(page:Page):
+   page.goto("https://rahulshettyacademy.com/loginpagePractise/")
+   page.get_by_label("username:").fill("rahulshettyacademy")
+   page.get_by_label("password:").fill("<learning")
+   page.get_by_role("combobox").select_option("teach")
+   time.sleep(5)
 
