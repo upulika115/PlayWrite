@@ -15,7 +15,12 @@ def test_playwriteShortCut(page:Page):
 def test_coreLocators(page:Page):
    page.goto("https://rahulshettyacademy.com/loginpagePractise/")
    page.get_by_label("username:").fill("rahulshettyacademy")
-   page.get_by_label("password:").fill("<learning")
+   page.get_by_label("password:").fill("learning")
    page.get_by_role("combobox").select_option("teach")
+   page.locator("#terms").check()
+   page.get_by_role("link", name="terms and conditions").click()
+   page.get_by_role("button", name="Sign In").click()
+
+
    time.sleep(5)
 
