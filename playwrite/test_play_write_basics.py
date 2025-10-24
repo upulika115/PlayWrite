@@ -22,5 +22,6 @@ def test_coreLocators(page:Page):
    page.get_by_role("button", name="Sign In").click()
 
 
+
    time.sleep(5)
 
